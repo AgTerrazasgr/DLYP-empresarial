@@ -1,0 +1,44 @@
+*{
+	padding: 10px;
+	background-color: #999
+}
+.titulo{
+	color: #fff;
+	text-align: center;
+	font-size: 90px;
+}
+.formulario{
+	width: 50%;
+	padding:  30%;
+	margin: auto;
+	background-color: #fff;
+	border-radius: 10px;
+}
+.formC{
+	background-color:  #fff;
+}
+.Portal{background:transparent;
+	border-top: 0px;
+	border-left:0px;
+	border-right: 0px;
+	border-bottom: 2px solid#999;
+	width: 90%;
+	padding: 20px;  
+}
+.portal:focus{
+	border-bottom: 2px solid blue;
+	transition: 2s;
+}
+.btn{
+	background: transparent;
+	border: 1px solid#000
+	width: 95%;
+	margin: auto;
+	cursor: pointer;
+}
+.btn:hover{
+	background-color: red;
+	color: #fff;
+	border:  1px solid red;
+}
+.menu
